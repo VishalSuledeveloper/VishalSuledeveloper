@@ -2,7 +2,7 @@
 www.youtube.com/channel/UCpnU-yxUSc4eOVFr4eIyA_g
 
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-VishalSule-red)](www.youtube.com/channel/UCpnU-yxUSc4eOVFr4eIyA_g)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-VishalSule-red)](https://www.youtube.com/channel/UCpnU-yxUSc4eOVFr4eIyA_g)
 [![Linkedin Badge](https://img.shields.io/badge/-Vishal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishal--01629954/)](https://www.linkedin.com/in/vishal-sule-280840231/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Vishal-yellow)](https://stackoverflow.com/users/18763203/vishal-sule)
 
