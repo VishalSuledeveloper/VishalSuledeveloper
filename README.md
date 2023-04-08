@@ -1,5 +1,4 @@
 ### Hi there 👋
-www.youtube.com/channel/UCpnU-yxUSc4eOVFr4eIyA_g
 
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-VishalSule-red)](https://www.youtube.com/channel/UCpnU-yxUSc4eOVFr4eIyA_g)
